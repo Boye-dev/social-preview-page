@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Boye-dev/social-preview-page/static/css/main.e6e25ff5.chunk.css",
+    "main.js": "/Boye-dev/social-preview-page/static/js/main.f2dbbe8d.chunk.js",
+    "main.js.map": "/Boye-dev/social-preview-page/static/js/main.f2dbbe8d.chunk.js.map",
+    "runtime-main.js": "/Boye-dev/social-preview-page/static/js/runtime-main.53ce7888.js",
+    "runtime-main.js.map": "/Boye-dev/social-preview-page/static/js/runtime-main.53ce7888.js.map",
+    "static/js/2.2bad743d.chunk.js": "/Boye-dev/social-preview-page/static/js/2.2bad743d.chunk.js",
+    "static/js/2.2bad743d.chunk.js.map": "/Boye-dev/social-preview-page/static/js/2.2bad743d.chunk.js.map",
+    "index.html": "/Boye-dev/social-preview-page/index.html",
+    "static/css/main.e6e25ff5.chunk.css.map": "/Boye-dev/social-preview-page/static/css/main.e6e25ff5.chunk.css.map",
+    "static/js/2.2bad743d.chunk.js.LICENSE.txt": "/Boye-dev/social-preview-page/static/js/2.2bad743d.chunk.js.LICENSE.txt",
+    "static/media/patternBottom.32aa6571.svg": "/Boye-dev/social-preview-page/static/media/patternBottom.32aa6571.svg",
+    "static/media/patternTop.9d4ba9c9.svg": "/Boye-dev/social-preview-page/static/media/patternTop.9d4ba9c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ce7888.js",
+    "static/js/2.2bad743d.chunk.js",
+    "static/css/main.e6e25ff5.chunk.css",
+    "static/js/main.f2dbbe8d.chunk.js"
+  ]
+}
